@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Azure devops build successfull" );
+        System.out.println( "Hello from devops final lab" );
     }
 }
